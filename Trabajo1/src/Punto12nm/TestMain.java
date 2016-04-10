@@ -1,6 +1,4 @@
-package Punto12;
-
-import Punto8.Console;
+package Punto12nm;
 
 public class TestMain {
 

@@ -1,4 +1,4 @@
-package Punto12;
+package Punto12nm;
 
 public class Velero extends Barco{
 	int mastiles;

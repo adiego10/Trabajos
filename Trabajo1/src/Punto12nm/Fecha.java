@@ -1,4 +1,4 @@
-package Punto12;
+package Punto12nm;
 
 public class Fecha {
 	int dia, mes, anio, num;

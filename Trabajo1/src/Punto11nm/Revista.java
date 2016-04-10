@@ -1,4 +1,4 @@
-package Punto11;
+package Punto11nm;
 
 public class Revista extends Publicacion{
 	int numero;

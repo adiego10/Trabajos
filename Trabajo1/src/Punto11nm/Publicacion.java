@@ -1,4 +1,4 @@
-package Punto11;
+package Punto11nm;
 
 public class Publicacion {
 	int codigo, paginas, precio, mesdp,aniodp;

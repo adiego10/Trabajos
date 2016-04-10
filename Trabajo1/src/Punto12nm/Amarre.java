@@ -1,4 +1,4 @@
-package Punto12;
+package Punto12nm;
 
 public class Amarre {
 	int valor, posicion;
